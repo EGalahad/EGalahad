@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My personal website can be found at [this link](https://egalahad.github.io/)
+
+我的个人主页[在这里](https://egalahad.github.io/zh-cn/)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EGalahad)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
