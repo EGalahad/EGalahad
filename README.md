@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My personal website can be found at [this link](https://egalahad.github.io/)
+My personal website can be found at [this link](https://haoyangweng.pages.dev/)
 
-我的个人主页[在这里](https://egalahad.github.io/zh-cn/)
+我的个人主页[在这里](https://haoyangweng.pages.dev/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EGalahad)](https://github.com/anuraghazra/github-readme-stats)
 
